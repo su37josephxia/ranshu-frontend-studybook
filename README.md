@@ -20,3 +20,6 @@
       - 代码 [github](https://github.com/su37josephxia/vue3-study/blob/master/vue-mastery/composition-api/demo/src/components/Computed.vue)
       - 掘金文章 [🔗 地址](https://juejin.cn/post/6909247394904702984)
 
+   - 2021.10.3  Methods
+        - 代码  [github](https://github.com/su37josephxia/vue3-study/blob/master/vue-mastery/composition-api/demo/src/components/Computed.vue)
+        - 掘金文章  [🔗 地址](https://juejin.cn/post/6909247394904702984)
