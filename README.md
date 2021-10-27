@@ -34,5 +34,8 @@
       - 掘金文章  [🔗 地址](https://juejin.cn/post/6909247394904702984)
     - 2021.10.7  Lifecycle Hooks
       - 代码  [github](https://github.com/su37josephxia/vue3-study/blob/master/vue-mastery/composition-api/demo/src/components/LifecycleHooks.js)
-
+      - 掘金文章  [🔗 地址](https://juejin.cn/post/6909247394904702984)
+    - 2021.10.8  Watch
+      - 代码  [github](https://github.com/su37josephxia/vue3-study/blob/master/vue-mastery/composition-api/demo/src/components/Watch.vue)
+      - 掘金文章  [🔗 地址](https://juejin.cn/post/6909247394904702984)
 
